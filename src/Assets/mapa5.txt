@@ -1,0 +1,13 @@
+5x4x2
+xxxxx
+x@  x
+x + x
+xxxxx
+xxxxx
+x + x
+x   x
+xxxxx
+xxxxx
+x   x
+x  +x
+xxxxx

@@ -1,0 +1,11 @@
+# Visual Studio / .NET build artifacts
+bin/
+obj/
+*.user
+
+# Visual Studio IDE files
+.vs/
+
+# NuGet
+*.nupkg
+packages/

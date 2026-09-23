@@ -1,0 +1,12 @@
+11x11x1
+xxxxxxxxxxx
+x         x
+x  y   y  x
+x @  *    x
+x  y   y  x
+x    *    x
+x  y   y  x
+x    *    x
+x  y   y  x
+x         x
+xxxxxxxxxxx

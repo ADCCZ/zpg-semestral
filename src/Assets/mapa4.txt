@@ -1,0 +1,21 @@
+5x4x5
+xxxxx
+x@--x
+x-- x
+xxxxx
+xxxxx
+x - x
+x   x
+xxxxx
+xxxxx
+x  -x
+x   x
+xxxxx
+xxxxx
+x   x
+x - x
+xxxxx
+xxxxx
+x   x
+x-  x
+xxxxx
