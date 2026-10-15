@@ -4,6 +4,14 @@ Semestrální práce z předmětu Základy počítačové grafiky (ZPG), FAV ZČ
 
 Jednoduchá 3D hra/vizualizace postavená na OpenGL (přes [OpenTK](https://opentk.net/)) v C# (.NET 8). Obsahuje procedurálně generovaný svět z textových map, kolizní systém, kameru s pohybem hráče, teleporty, dynamické osvětlení (baterku) a minimapu.
 
+## Ukázky
+
+![Startovní místnost s minimapou](doc/screenshots/start-mistnost.png)
+
+| Chodba | Hala |
+|---|---|
+| ![Chodba](doc/screenshots/chodba.png) | ![Hala](doc/screenshots/hala.png) |
+
 ## Technologie
 
 - .NET 8 (Windows Forms + OpenGL)
@@ -34,3 +42,7 @@ dotnet run
 - Myš – rozhlížení
 - `Mezerník` – skok
 - `Esc` – ukončení
+
+## Dokumentace
+
+Podrobná dokumentace je v [doc/dokumentace_finální-část.pdf](doc/dokumentace_finální-část.pdf).

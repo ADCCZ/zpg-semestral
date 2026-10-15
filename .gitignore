@@ -9,3 +9,6 @@ obj/
 # NuGet
 *.nupkg
 packages/
+
+# Archivy
+*.zip
